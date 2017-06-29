@@ -1,0 +1,6 @@
+print_camera_types
+==================
+
+.. currentmodule:: ctapipe.instrument
+
+.. autofunction:: print_camera_types

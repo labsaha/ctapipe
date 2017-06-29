@@ -1,0 +1,6 @@
+info
+====
+
+.. currentmodule:: ctapipe.tools
+
+.. autofunction:: info

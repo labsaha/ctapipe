@@ -1,0 +1,7 @@
+GreatCircle
+===========
+
+.. currentmodule:: ctapipe.reco
+
+.. autoclass:: GreatCircle
+   :show-inheritance:

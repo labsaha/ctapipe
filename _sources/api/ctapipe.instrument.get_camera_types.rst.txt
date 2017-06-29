@@ -1,0 +1,6 @@
+get_camera_types
+================
+
+.. currentmodule:: ctapipe.instrument
+
+.. autofunction:: get_camera_types

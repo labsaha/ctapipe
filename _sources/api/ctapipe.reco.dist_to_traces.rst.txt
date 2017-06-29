@@ -1,0 +1,6 @@
+dist_to_traces
+==============
+
+.. currentmodule:: ctapipe.reco
+
+.. autofunction:: dist_to_traces

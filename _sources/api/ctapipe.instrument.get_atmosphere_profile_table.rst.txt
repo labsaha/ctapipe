@@ -1,0 +1,6 @@
+get_atmosphere_profile_table
+============================
+
+.. currentmodule:: ctapipe.instrument
+
+.. autofunction:: get_atmosphere_profile_table
